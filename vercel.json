@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://github.com/$1"}
+    {"source": "/(.*)", "destination": "http://8.217.78.121:5212/$1"}
   ]
 }
